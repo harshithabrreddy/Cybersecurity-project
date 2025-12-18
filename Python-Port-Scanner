@@ -1,0 +1,19 @@
+# Python Port Scanner
+
+## Description
+A beginner Python cybersecurity project that scans a target system to identify open TCP ports.
+
+## Features
+- Takes IP address or hostname as input
+- Converts hostname to IP
+- Scans ports 1–1024
+- Displays open ports and services
+
+## Technologies Used
+- Python
+- socket module
+
+## How to Run
+1. Run `python port_scanner.py`
+2. Enter target IP or hostname
+3. View open ports
